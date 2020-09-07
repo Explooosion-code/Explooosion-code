@@ -1,16 +1,16 @@
-### Hi there 👋
+# !Explooosion!
 
-<!--
-**Explooosion-code/Explooosion-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What do I do?
+  * I'm currenly developing a FiveM server.
+  * I started creating an open source FiveM gamemode written in C# called StrefaRDM
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What do i know?
+  * C#
+  * Lua
+  * Javascript
+  * Node.js
+  * Vue.js
+  * HTML
+  * CSS
+ 
