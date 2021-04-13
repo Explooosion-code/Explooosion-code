@@ -6,6 +6,7 @@
 
 
 ### What do i know?
+  * Golang
   * C#
   * Lua
   * Javascript
