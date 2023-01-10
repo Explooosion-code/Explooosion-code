@@ -1,12 +1,13 @@
 <img width="512" src="https://user-images.githubusercontent.com/61145047/168449140-3c0b1aec-64fe-429e-ba44-cac2632e7256.png" />
 
 ### What do I do?
+I'm studying physics at the University of Warsaw
 I'm one of lead devs on the biggest Polish Roleplay Server FiveCity (website <a href="https://fivecity.net">here</a>)   
-I take care of most of the front-end and HUD/Minigames   
 I also just Love Programming and did a <a href="https://github.com/Explooosion-code/aoc2021">one day AOC challenge</a>
   
 
 ### Languages & technologies
+  * Cpp
   * Vue.js
   * JavaScript/TypeScript
   * Golang
