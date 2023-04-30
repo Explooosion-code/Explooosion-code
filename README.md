@@ -3,7 +3,6 @@
 ### What do I do?
 - I'm a huuuge math fan, and love both pure math problems, and IT applications
 - I'm studying physics at the University of Warsaw
-- I'm one of lead devs on the biggest Polish FiveM Server FiveCity (website <a href="https://fivecity.net">here</a>)   
 - I also just Love Programming and did a <a href="https://github.com/Explooosion-code/aoc2021">one day AOC challenge</a>
   
 
