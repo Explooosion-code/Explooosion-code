@@ -1,3 +1,5 @@
+Im a software engineer @ ProdigyRP, loaded.gg
+
 ### What do I do?
 - Math enjoyer with interests in Differential Geometry and Quantum information
 - Studying Physics @ the University of Warsaw. Bachelor thesis was on Symplectic integrators
